@@ -1,2 +1,4 @@
 # hello-world
-Sample Repository
+
+Hi 
+ I am Gudhi, I Like Deep Learning, GPU Programming(CUDA) and OpenCV
